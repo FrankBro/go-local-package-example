@@ -1,10 +1,10 @@
 package main
 
 import (
-	_ "common"
+	"common"
 	"fmt"
 )
 
 func main() {
-	fmt.Println(add(1, 2))
+	fmt.Println(common.Add(1, 2))
 }

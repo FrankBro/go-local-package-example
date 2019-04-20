@@ -1,5 +1,6 @@
 package common
 
-func add(a int, b int) int {
+// Add ...
+func Add(a int, b int) int {
 	return a + b
 }
