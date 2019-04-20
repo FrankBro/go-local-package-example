@@ -1,0 +1,1 @@
+module go-local-package-example/common
