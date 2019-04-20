@@ -1,8 +1,8 @@
 package main
 
 import (
+	_ "common"
 	"fmt"
-	_ "go-local-package-example"
 )
 
 func main() {
